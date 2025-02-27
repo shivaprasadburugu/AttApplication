@@ -10,7 +10,8 @@ const getBaseUrl =() => {
     }else{
 
         //return 'https://localhost:44389/' + branchUrl;
-        return 'http://172.16.0.205:7005/' + branchUrl;
+        //return 'http://172.16.0.205:7005/' + branchUrl;
+        return 'http://14.99.141.154.7005/' + branchUrl;
         
     }
 
